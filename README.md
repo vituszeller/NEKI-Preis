@@ -23,7 +23,7 @@ Die Veränderung der Erwerbsgesellschaft durch KI-basierte Automatisierung ist a
 
 > Eine Studie der Universität Oxford kommt zu dem Schluss, dass bis 2030 rund 47 Prozent aller Arbeitsplätze in den USA der Automatisierung zum Opfer fallen könnten. [...] Laut einer Studie von Volkswirten der ING-Diba-Bank sind 59 Prozent aller Arbeitsplätze gefährdet; von den rund 31 Millionen sozialversicherungspflichtigen und geringfügigen Beschäftigten hierzulande könnten 18 Millionen von Robotern und Software ersetzt werden. [(Die Zeit, 2016)](http://www.zeit.de/karriere/beruf/2016-01/zukunft-arbeit-arbeitsmarkt/seite-2)
 
-Vergleichbare Entwicklungen gibt es auch in der Geschichte: die Ersetzung handwerklicher mit industrieller Produktion und die Anfänge der automatisierten Fertigung [(Geschichte-Wissen, 2009)}(http://geschichte-wissen.de/blog/die-weltwirtschaftskrise-1929-1932/). 
+Vergleichbare Entwicklungen gibt es auch in der Geschichte: die Ersetzung handwerklicher mit industrieller Produktion und die Anfänge der automatisierten Fertigung [(Geschichte-Wissen, 2009)](http://geschichte-wissen.de/blog/die-weltwirtschaftskrise-1929-1932/). 
 
 Wie stellen wir uns die Erwerbsgesellschaft der Zukunft vor? Wohl sollten Menschen einer möglichst erfüllenden Tätigkeit nachgehen können. Doch welche politische Steuerung braucht es, um dieses Ziel bei der schrittweisen Automatisierung durch KI, zu fördern? Wenn man das konkrete politische Konzept an dieser Stelle offenlässt, stellt sich immer noch die Frage der Kommunikation und der Findung von Mehrheiten für solche Konzepte. Es gibt in Deutschland zurzeit beinahe keine öffentliche Diskussion zum Thema. Wie kann diese Diskussion, evtl auch technologisch, befördert werden? 
 
