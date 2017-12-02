@@ -55,3 +55,10 @@ Kann KI helfen, die Kommunikation zwischen Menschen verschiedener Kulturen zu er
 
 Im Kern könnte die Entwicklung von genereller KI unser Selbstverständnis als Menschen „angreifen“. Vielen Menschen bereitet die Vorstellung von „künstlichem Leben“ – mit Hilfe von Gentechnik designetes Leben – Unwohlsein. Ein ähnlicher Effekt kann eintreten, wenn Computer Tätigkeiten übernehmen, mit denen sich Menschen identifizieren; oder die zumindest ihren Alltag prägen. Neben dieser psychologischen, existenziellen Bedrohung ist im Prinzip auch eine physische existenzielle Bedrohung denkbar, in dem eine auf KI basierte weltweite Infrastruktur bewusst oder unbewusst in einen Zustand gebracht wird, in dem sie sich gegen Menschen wendet. Es stellt sich also die Frage, ob die Forschung an künstlicher Intelligenz ähnliche Debatten wie zum Beispiel die Gentechnologie führen sollte. Ein Meilenstein der Wissenschaftsgeschichte war die erfolgreiche Selbstregulation der genetischen Forschung nach der Asilomar Conference on Recombinant DNA im Jahr 1975. Man hatte sich darauf geeinigt, dass Experimente, die DNA verschiedener Lebewesen kombiniert, zum Großteil verboten werden sollten. Reichen die Beschlüsse der [Asilomar Konferenz zu KI, 2017](https://futureoflife.org/ai-principles/) aus, um alle Gefahren zu umgehen?
 
+
+<a id="verschmelzung"/>
+
+### Verschmelzung von Mensch und Maschine
+
+Algorithmen verändern das Leben der Menschen bereits seit vielen Jahren. Google, Facebook und viele andere Technologieunternehmen entscheiden anhand undurchsichtiger Kriterien, welche Informationen Menschen konsumieren und nehmen damit substanziell Einfluss auf das Leben der Menschheit als Ganzes. Die Frage, ob der Mensch mit der Maschine verschmelzt stellt sich möglicherweise nicht, da diese Verschmelzung bereits seit langem im Gange ist. Wie kann/ wird eine solche Verschmelzung in Zukunft aussehen? Kann der einzelne Mensch in Zukunft Einfluss auf die Intensität der Verschmelzung nehmen?
+
